@@ -19,6 +19,7 @@ Projects and exercises are organized in numbered folders, corresponding to the m
 
 | Folder | Topics Covered | Content Highlight |
 | :--- | :--- | :--- |
-| `01_Flow_Control` | Conditionals (`if/else`) and Loops (`while/for`). | **Project:** [Calculator Using While](./01.Calculador-using-While/calculator-while.py)
+| `01_Flow_Control` | Conditionals (`if/else`) and Loops (`while/for`). | **Project 1:** [Calculator Using While](./01.Calculador-using-While/calculator-while.py) |
+| | | **Project 2:** [Guessing Game](./02.Guessing-Game/guessing-game.py) |
 
 ---

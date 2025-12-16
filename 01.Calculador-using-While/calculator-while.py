@@ -12,18 +12,18 @@ def calculator():
 		operator = input('Choose an operator (+-/*): ')
 		number_2 = input('Enter another number: ')  
 							
-		valid_numbers = None  
+		valid_number = None  
 		num_1_float = 0         
 		num_2_float = 0
 		
 		try:							
 			num_1_float = float(number_1)
 			num_2_float = float(number_2)
-			valid_numbers = True
+			valid_number = True
 		except:
-			valid_numbers = None
+			valid_number = None
 
-		if valid_numbers is None:
+		if valid_number is None:
 			logger.warning('Oops, one or more numbers are invalid!')
 			continue
 
