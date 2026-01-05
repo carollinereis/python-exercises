@@ -1,4 +1,5 @@
 import random
+import os
 
 def guessing_word():
     word_list = ['thought', 'beaver', 'ranch', 'wool', 'cherry', 'pen', 'sibling', 'aunt', 'picture', 'fork']
@@ -38,6 +39,7 @@ def guessing_word():
         print(f'Wrong guesses: {missed_letters}')
 
         if won:
+            os.system('clear')
             print(f'\nCONGRATS! You got it!')
             print(f'The word was: {random_words}')
             print(f'Total attempts: {attempts}')
