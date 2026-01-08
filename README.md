@@ -19,10 +19,10 @@ Projects and exercises are organized in numbered folders, corresponding to the m
 
 | Module | Topics Covered | Projects |
 | :--- | :--- | :--- |
-| `01_Flow_Control` | Conditionals, Loops and Lists (append, enumerate, del). | **Project 1:** [Calculator Using While](./01.Calculador-using-While/calculator-while.py) |
+| `01_Flow_Control` | conditionals and loops  | **Project 1:** [Calculator Using While](./01.Calculador-using-While/calculator-while.py) |
 | | | **Project 2:** [Guessing Game](./02.Guessing-Game) |
 | | | **Project 3:** [BMI Calculator](./03.BMI-calculator/bmi-calculador.py) |
 | | | **Project 4:** [Multiplication Table (Range)](./04.For-Range/multiplication-table.py) |
-| | | **Project 5:** [Shopping List (CRUD)](./05.Shopping-list/shopping-list.py) |
+| | append, enumerate, del | **Project 5:** [Shopping List (CRUD)](./05.Shopping-list/shopping-list.py) |
 
 ---
