@@ -24,5 +24,5 @@ Projects and exercises are organized in numbered folders, corresponding to the m
 | | | **Project 3:** [BMI Calculator](./03.BMI-calculator/bmi-calculador.py) |
 | | | **Project 4:** [Multiplication Table (Range)](./04.For-Range/multiplication-table.py) |
 | | append, enumerate, del | **Project 5:** [Shopping List (CRUD)](./05.Shopping-list/shopping-list.py) |
-
+| `02_Data_Processing` | Regex, input sanitization | **Project 6:** [CPF Validator](./06.Validador_CPF/validador-de-cpf.py) |
 ---
