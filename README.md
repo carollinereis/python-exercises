@@ -2,9 +2,9 @@
 
 [![Repository Status](https://img.shields.io/badge/Status-In%20Development-blue)](https://github.com/carollinereis/python-exercises) 
 
-## 🎯 About This Repository
+## About This Repository
 
-This repository is a practical portfolio and documentation of my learning journey in **Python**, covering content from fundamental to advanced levels.
+This repository is a practical portfolio and documentation of my learning journey in **Python**, covering content from fundamental to advanced levels based on the course by Professor Luiz Otávio Miranda.
 
 **Objective:**
 * Serve as a reference and record of my progress throughout the course.
